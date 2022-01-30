@@ -2,7 +2,7 @@
 //!
 //! [`CustomResourceDefinition`]: `k8s_openapi::apiextensions_apiserver::pkg::apis::apiextensions::v1::CustomResourceDefinition`
 
-use indexmap::map::core::Entry;
+use indexmap::map::Entry;
 
 // Used in docs
 #[allow(unused_imports)] use schemars::gen::SchemaSettings;
